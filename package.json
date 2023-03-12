@@ -21,6 +21,6 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
     "sharp": "^0.29.3",
-    "socket.io": "^8.0.0"
+    "socket.io": "^18.12.1"
   }
 }
